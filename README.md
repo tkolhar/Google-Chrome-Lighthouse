@@ -1,18 +1,6 @@
 # Lighthouse
 Lighthouse tool automation
-Lighthouse opensource tool with Python
-Automation assignment
-Problem:
-
-Using Lighthouse opensource tool with Python as the coding language, automate any of the 4 to 5 accessibility rules for the following scenario:
-1) Go to - https://www.tamm.abudhabi/en
-2) Click on Accept cookies    
-3) Under Journey and services, click on Discover Abu Dhabi as a Business Destination
-As an assignment deliverable, we expect:
-The list of any 4-5 accessibility testing rules that you have automated for the above page.
-Automated framework used and its relevant test execution report
-
-Solution:
+Lighthouse opensource tool with Pytho
 
 Development tools: PyCharm (community edition) 2019.2.2, Google Chrome, Chrome Devtools to run the audits manually.
 
