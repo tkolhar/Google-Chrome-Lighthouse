@@ -54,11 +54,11 @@ All checks are passing. �
 
 Accessibility rules automated:
 
-	Buttons have an accessible name
-	<html> element has a [lang] attribute
-	<html> element has a valid value for its [lang] attribute
-	Form elements have associated labels
-	Links have a discernible name
+1. Buttons have an accessible name
+2.	<html> element has a [lang] attribute
+3.	<html> element has a valid value for its [lang] attribute
+4. Form elements have associated labels
+5. Links have a discernible name
 
 Explanation:
 1.	I am using the wrapper class lighthouse-ci along with python to automate the accessibility rules
